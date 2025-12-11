@@ -272,3 +272,28 @@ select:focus {
     display: none;
   }
 }
+
+
+.delete-btn {
+  background-color: #ab2727 !important;
+  border-color: #b71c1c !important;
+  color: white !important;
+}
+
+.delete-btn:hover,
+.delete-btn:focus {
+  background-color: #d22020 !important;
+  border-color: #ad0101 !important;
+}
+
+.edit-btn {
+  background-color: #096410 !important;
+  border-color: #108621 !important;
+  color: white !important;
+}
+
+.edit-btn:hover,
+.edit-btn:focus {
+  background-color: #0e8518 !important;
+  border-color: #0c8616 !important;
+}
